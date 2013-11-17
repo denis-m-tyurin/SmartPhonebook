@@ -1,0 +1,9 @@
+App icon sizes:
+LDPI
+MDPI 48x48 dp (1x)
+HDPI (1.5x)
+XHDPI (2x)
+XXHDPI (3x)
+XXXHDPI (4x)
+
+Google Play 512x512
